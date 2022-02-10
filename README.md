@@ -1,5 +1,5 @@
 
-## My bulb is not turning on
+## My bulb is not turning off 
 
 If your bulb is not turning on, follow these steps:
 
