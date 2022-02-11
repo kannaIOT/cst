@@ -1,0 +1,15 @@
+{
+    "articles": [
+    {
+        "key": "b_article", "title": "My Bulb is not turning On", "path": "/bulb/article1.md" , "type" : "md"
+    },
+    {
+        "key": "b_article", "title": "My bulb is offline", "path": "/bulb/article2.md" , "type" : "md"
+    },
+    {
+        "key": "b_article", "title": "My bulb is flickering", "path": "/bulb/article3.md" , "type" : "md"
+    },
+    {
+        "key": "b_article", "title": "Test Html Article", "path": "/bulb/article4.html" , "type" : "html"
+    }
+]}
