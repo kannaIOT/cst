@@ -1,0 +1,9 @@
+{
+    "articles": [
+    {
+        "key": "b_mobile_apps_article", "title": "Smitch Home App", "path": "/bulb/mobile-apps/article1" , "type" : "md"
+    },
+    {
+        "key": "b_mobile_apps_article", "title": "Smitch Care App", "path": "/bulb/mobile-apps/article2" , "type" : "md"
+    }
+]}

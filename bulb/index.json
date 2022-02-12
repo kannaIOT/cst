@@ -1,15 +1,12 @@
 {
-    "articles": [
+    "help": [
     {
-        "key": "b_article", "title": "My Bulb is not turning On", "path": "/bulb/article1" , "type" : "md"
+        "key": "b_help", "title": "Hardware & Connectivity", "path": "/bulb/h-c" 
     },
     {
-        "key": "b_article", "title": "My bulb is offline", "path": "/bulb/article2" , "type" : "md"
+        "key": "b_help", "title": "Mobile Apps", "path": "/bulb/mobile-apps" 
     },
     {
-        "key": "b_article", "title": "My bulb is flickering", "path": "/bulb/article3" , "type" : "md"
-    },
-    {
-        "key": "b_article", "title": "Test Html Article", "path": "/bulb/article4" , "type" : "html"
+        "key": "b_help", "title": "Third Party", "path": "/bulb/third-party" 
     }
 ]}

@@ -1,0 +1,9 @@
+{
+    "articles": [
+    {
+        "key": "b_third_party_article", "title": "Salesfore", "path": "/bulb/third-party/article1" , "type" : "md"
+    },
+    {
+        "key": "b_third_party_article", "title": "Intercom", "path": "/bulb/third-party/article2" , "type" : "md"
+    }
+]}
