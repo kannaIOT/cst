@@ -1,12 +1,12 @@
 {
     "help": [
     {
-        "key": "b_help", "title": "Hardware & Connectivity", "path": "/bulb/h-c" 
+        "key": "b_help", "title": "Hardware & Connectivity", "path": "/bulb/h-c" , "link": "/device/articles" , "imgMat": "Lightbulb" 
     },
     {
-        "key": "b_help", "title": "Mobile Apps", "path": "/bulb/mobile-apps" 
-    },
+        "key": "b_help", "title": "Mobile Apps", "path": "/bulb/mobile-apps" , "imgMat": "PhoneIphone" , "link": "/device/articles"
+    }, 
     {
-        "key": "b_help", "title": "Third Party", "path": "/bulb/third-party" 
+        "key": "b_help", "title": "Third Party", "path": "/bulb/third-party" , "link": "/device/articles", "img1": "https://res.cloudinary.com/da22ox1m0/image/upload/v1643971634/Amazon_Alexa_blue_logo_1_e8orlk.png", "img2": "https://res.cloudinary.com/da22ox1m0/image/upload/v1643971634/Google_Assistant_logo_1_m9o1vp.png"
     }
 ]}
